@@ -30,12 +30,12 @@ function Work() {
 								Fullstack MERN Application
 							</span>
 							<div className="pt-8 text-center">
-								<a href="/">
+								<a href="https://jabril-jeylani-petshop.onrender.com/">
 									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-7800 font-bold text-lg">
 										Demo
 									</button>
 								</a>
-								<a href="/">
+								<a href="https://github.com/Jabril-Jeylani/Mod3FinalProject">
 									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-7800 font-bold text-lg">
 										Code
 									</button>
@@ -54,12 +54,12 @@ function Work() {
 								React Application
 							</span>
 							<div className="pt-8 text-center">
-								<a href="/">
+								<a href="https://jabril-jeylani.netlify.app/">
 									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-7800 font-bold text-lg">
 										Demo
 									</button>
 								</a>
-								<a href="/">
+								<a href="https://github.com/Jabril-Jeylani/StockTracker_Mod2Project">
 									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-7800 font-bold text-lg">
 										Code
 									</button>
@@ -78,12 +78,12 @@ function Work() {
 								HTML, CSS, JS Application
 							</span>
 							<div className="pt-8 text-center">
-								<a href="/">
+								<a href="https://jabril-jeylani.github.io/Breakout-Project/">
 									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-7800 font-bold text-lg">
 										Demo
 									</button>
 								</a>
-								<a href="/">
+								<a href="https://github.com/Jabril-Jeylani/Breakout-Project/">
 									<button className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-7800 font-bold text-lg">
 										Code
 									</button>
