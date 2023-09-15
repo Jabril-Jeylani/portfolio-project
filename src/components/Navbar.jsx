@@ -27,7 +27,7 @@ function Navbar() {
 				<li>Home</li>
 				<li>About</li>
 				<li>Skills</li>
-				<li>Work</li>
+				<li>Projects</li>
 				<li>Contact</li>
 			</ul>
 			{/* Hamburger */}
