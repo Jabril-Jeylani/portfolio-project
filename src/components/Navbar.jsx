@@ -142,6 +142,7 @@ function Navbar() {
 						<a
 							className="flex justify-between items-center w-full text-gray-300"
 							href="https://www.linkedin.com/in/jabriljeylani/"
+							target="_blank"
 						>
 							LinkedIn <FaLinkedin size={30} />
 						</a>
@@ -150,22 +151,20 @@ function Navbar() {
 						<a
 							className="flex justify-between items-center w-full text-gray-300"
 							href="https://github.com/Jabril-Jeylani"
+							target="_blank"
 						>
 							Github <FaGithub size={30} />
 						</a>
 					</li>
 					<li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#4bae5d]">
 					
-					<Link 
-					
-						to="contact"
-						smooth={true}
-						duration={500}
-					>
+					<a className='flex justify-between items-center w-full text-gray-200' href="mailto:jabrilmj@gmail.com">
 						Email
 					
-					</Link>
+					
+					
 					<HiOutlineMail size={30} />
+					</a>
 					</li>
 					<li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
 						<a
